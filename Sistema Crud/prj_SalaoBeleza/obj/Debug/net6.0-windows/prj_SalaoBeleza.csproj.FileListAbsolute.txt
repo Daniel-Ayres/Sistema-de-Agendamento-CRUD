@@ -1,0 +1,234 @@
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.exe
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.deps.json
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.runtimeconfig.json
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Properties.Resources.resources
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfo.cs
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\refint\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.genruntimeconfig.cache
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\ref\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Acesso.resources
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Login.resources
+C:\Users\User\Desktop\Programas C#\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadClie.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.exe
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.deps.json
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.runtimeconfig.json
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\comerr64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\gssapi64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\k5sprt64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krb5_64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krbcc64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.AssemblyReference.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Login.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Principal.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Properties.Resources.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadClie.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.GenerateResource.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfoInputs.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfo.cs
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CoreCompileInputs.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CopyComplete
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\refint\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.genruntimeconfig.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\ref\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.exe
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.deps.json
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.runtimeconfig.json
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Login.resources
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Principal.resources
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Properties.Resources.resources
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadClie.resources
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfo.cs
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CopyComplete
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\refint\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.genruntimeconfig.cache
+C:\Users\User\Desktop\Programas C#\PROJETO SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\ref\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.exe
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.deps.json
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.runtimeconfig.json
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\comerr64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\gssapi64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\k5sprt64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krb5_64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krbcc64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.AssemblyReference.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Login.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Principal.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Properties.Resources.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadClie.resources
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.GenerateResource.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfoInputs.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfo.cs
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CoreCompileInputs.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CopyComplete
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\refint\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.genruntimeconfig.cache
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\ref\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Keven\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditClie.resources
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.exe
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.deps.json
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.runtimeconfig.json
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\Google.Protobuf.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\MySql.Data.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\ZstdNet.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\comerr64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\gssapi64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\k5sprt64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krb5_64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krbcc64.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.AssemblyReference.cache
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Login.resources
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Principal.resources
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Properties.Resources.resources
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadClie.resources
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditClie.resources
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.GenerateResource.cache
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.GeneratedMSBuildEditorConfig.editorconfig
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfoInputs.cache
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfo.cs
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CoreCompileInputs.cache
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CopyComplete
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\refint\prj_SalaoBeleza.dll
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.genruntimeconfig.cache
+S:\#Turma 103-Tec Informatica\UC-12\Daniel Silva\PROJETO_SALAO\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\ref\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.exe
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.deps.json
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.runtimeconfig.json
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Login.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Properties.Resources.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadClie.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditClie.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfo.cs
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CopyComplete
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\refint\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.genruntimeconfig.cache
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\ref\prj_SalaoBeleza.dll
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadAgend.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadFunci.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadServi.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditAgend.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditFunci.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditServi.resources
+C:\Users\User\Desktop\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.btn_Agend.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.exe
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.deps.json
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.runtimeconfig.json
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Frm_Login.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.btn_Agend.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.Properties.Resources.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadAgend.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadClie.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadFunci.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_CadServi.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditAgend.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditClie.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditFunci.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.View.Frm_EditServi.resources
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.GenerateResource.cache
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.AssemblyInfo.cs
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.csproj.CopyComplete
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\refint\prj_SalaoBeleza.dll
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.pdb
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\prj_SalaoBeleza.genruntimeconfig.cache
+C:\Users\User\Documents\Programas C#\PROJETO_FINAL\prj_SalaoBeleza\prj_SalaoBeleza\obj\Debug\net6.0-windows\ref\prj_SalaoBeleza.dll
